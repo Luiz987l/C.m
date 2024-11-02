@@ -1,4 +1,4 @@
-const validUser = { username: "g", password: "l" };
+const validUser = { username: "g", password: "l.f" };
 
 const birthdays = [
     

@@ -1,7 +1,6 @@
 const validUser = { username: "g", password: "l" };
 
 const birthdays = [
-    { name: "Ana.c", date: "24/11/2024" },
     { name: "Maria", date: "07/11/2024" },
     { name: "Karolini", date: "27/11/2024"},
     { name: "Larissa", date: "19/11/2024"},

@@ -4,7 +4,7 @@ const birthdays = [
     { name: "Maria", date: "07/11/2024" },
     { name: "Karolini", date: "27/11/2024" },
     { name: "Larissa", date: "19/11/2024" },
-    { name: "Victoria", date: "13/11/2024" },
+    { name: "Mariana", date: "13/11/2024" },
     { name: "Kaylã", date: "03/11/2024" },
     { name: "Alice", date: "05/12/2024" },
     { name: "Bruno", date: "12/12/2024" },

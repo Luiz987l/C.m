@@ -54,6 +54,6 @@ button:hover {
 
 .error-message {
     color: red;
-    margin-top: 15px; /* Aumenta o espaçamento acima da mensagem de erro */
-    font-size: 16px; /* Aumenta o tamanho da fonte da mensagem de erro */
+    margin-top: 15px; 
+    font-size: 16px;
 }

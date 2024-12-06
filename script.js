@@ -43,13 +43,13 @@ function displayBirthdays(month) {
     const list = document.getElementById("birthday-list");
     list.innerHTML = "";
 
-    // Filtra os aniversariantes com base no mês selecionado
+   
     const filteredBirthdays = birthdays.filter(birthday => {
         const birthdayMonth = parseInt(birthday.date.split("/")[1], 10);
         return birthdayMonth === parseInt(month, 10);
     });
 
-    // Exibe os aniversariantes do mês selecionado
+  
     filteredBirthdays.forEach(birthday => {
         const listItem = document.createElement("li");
         listItem.innerText = `${birthday.name} - ${birthday.date}`;
